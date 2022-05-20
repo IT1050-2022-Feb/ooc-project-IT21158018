@@ -21,10 +21,3 @@ void Reservation::DisplayBillAmount(){
 };
 Reservation::~Reservation(){
 };
- int main (){
- 	
- 	Reservation *re;
- 	
- 	return 0;
-	
-}
